@@ -5,7 +5,8 @@ TODO：
 * 【已解决】iOS的app中如何实现syscall函数调用
 * 【已解决】iOS中用syscall调用stat64实现越狱文件检测
 * 【整理】syscall内核系统调用和svc 0x80相关基础知识
-
+  * 【整理】iOS中syscall的系统调用编号number的定义
+  * 【整理】iOS中的带函数原型和说明的系统调用system call
 
 ---
 
