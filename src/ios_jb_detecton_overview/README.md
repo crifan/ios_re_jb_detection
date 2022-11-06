@@ -2,12 +2,6 @@
 
 TODO：
 
-* 把之前代码整理出 **2套代码**
-  * iOSDetectJailbreak = iOS越狱检测
-  * iOSBypassJailbreak = iOS反越狱检测
-
-TODO：
-
 * 【未解决】越狱iOS如何实现反越狱检测
 * 【整理】越狱检测和反越狱检测相关手段及进度
 
