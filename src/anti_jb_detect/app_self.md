@@ -1,5 +1,11 @@
 # app本身
 
+TODO：
+
+* 【未解决】iOS逆向：绕过重签名检测embedded.mobileprovision
+
+---
+
 ## NSBundle
 
 ```c
